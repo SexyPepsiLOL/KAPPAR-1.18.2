@@ -1,0 +1,12 @@
+#25C terralith:basalt_cliffs
+#694 terralith:cave/deep_caves
+#4DB terralith:cave/fungal_caves
+#1A6 terralith:cave/granite_caves
+#38F terralith:granite_cliffs
+#79A minecraft:lukewarm_ocean
+#5FF minecraft:river
+#67B minecraft:savanna
+#706 minecraft:savanna_plateau
+#71E terralith:savanna_slopes
+#421 minecraft:stony_peaks
+#51A minecraft:stony_shore

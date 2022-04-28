@@ -1,0 +1,1055 @@
+[07:35:32] [main/INFO]: ModLauncher running: args [--username, LOADER_is_Queen, --version, forge-40.1.0, --gameDir, D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2, --assetsDir, D:\Users\dylan\AppData\Instances\Install\assets, --assetIndex, 1.18, --uuid, 5370187baa52494394ca5e507d156041, --accessToken, ????????, --clientId, MGM5ZTY1ZmMtZGNmZS00MGYwLWEzZWMtY2RmZWQ1Y2FiZGRh, --xuid, 2535416532679572, --userType, msa, --versionType, release, --width, 1920, --height, 1080, --launchTarget, forgeclient, --fml.forgeVersion, 40.1.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[07:35:32] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[07:35:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/Users/dylan/AppData/Instances/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[07:35:33] [main/INFO]: Found mod file additionalbars-3.0.1-beta+1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file additionalbarsbop-3.0.1-beta+1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AdditionalEnchantedMiner-1.18.2-18.10.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file additionallanterns-1.0.1-mc1.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AdHooks-1.18.2-8.0.0.0-build.0342.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file advancedperipherals-1.18.2-0.7.13a.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file advgenerators-1.1.0.5-mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AE2-Things-1.0.1-beta.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AEInfinityBooster-1.18.2-1.1.0+8.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AI-Improvements-1.18-0.4.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AIOTBotania-1.18.2-2.1.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AkashicTome-1.5-20.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file alexsmobs-1.17.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file alib-1.18.2-2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Amplified_Nether_v1.1.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file angelring-1.18-1.5.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Apotheosis-1.18.2-5.3.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file appleskin-forge-mc1.18-2.4.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Applied-Botanics-1.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Applied-Mekanistics-1.1.4-beta.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file appliedenergistics2-11.0.0-alpha.6.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Aquaculture-1.18.2-2.3.6.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file architectury-4.2.50.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ars_elemental-1.18.2-0.3.2.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ars_instrumentum-1.18.2-2.2.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ars_nouveau-1.18.2-2.4.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file arsomega-2.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file artifacts-1.18.2-4.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file assemblylinemachines-1.18.2-1.4.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AttributeFix-Forge-1.18.2-14.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AutoRegLib-1.7-53.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AwesomeDungeonEnd-Forge-1.18.2-1.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AwesomeDungeonNether-Forge-1.18.2-1.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file AwesomeDungeonOcean-Forge-1.18.2-2.0.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file balm-3.0.3+0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file BasicNetherOres-1.18.2-7.2.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file bdlib-1.19.3.7-mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file bedspreads-forge-1.18.1-5.1.0.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file BetterAdvancements-1.18.2-0.2.0.129.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file betterbiomeblend-1.18.2-1.3.4-forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file BetterCompatibilityChecker-1.1.13-build.25+mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file BetterF3-1.2.4-Forge-1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file betterfpsdist-1.18.2-1.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Beyond-Earth-1.18.2-6.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Beyond-Earth-Giselle-Addon-1.18.2-2.8.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file BiomesOPlenty-1.18.2-16.0.0.110-universal.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file BlockBooster-1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file blue_skies-1.18.2-1.3.10.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file blueprint-1.18.2-5.3.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file bonsaitrees3-3.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Bookshelf-Forge-1.18.2-13.0.13.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Botania-1.18.2-431.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file BotanicalMachinery-1.18.2-1.0.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file builders_fantasy_v1.2.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file buildersaddition-1.18.2-20220308a.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file BuildersDelight-1.18.2-v.0.9.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file buildinggadgets-3.13.0-build.5+mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file bwncr-forge-1.18.1-3.10.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file cabletiers-1.18.1-0.545.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file caelus-forge-1.18.1-3.0.0.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file carryon-1.18.2-1.17.0.8.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file cc-tweaked-1.18.2-1.100.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file cfm-7.0.0-pre29-1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file charginggadgets-1.7.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ChiselsBits-forge-1.18.2-1.2.85-universal.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file citadel-1.11.2-1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ClickMachine-1.18.2-6.0.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file clienttweaks-forge-1.18.1-7.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file cloth-config-6.2.57-forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Clumps-forge-1.18.2-8.0.0+8.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file collective-1.18.2-4.25.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file comforts-forge-1.18.2-5.0.0.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file CommonCapabilities-1.18.2-2.8.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file compactmachines-4.2.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Compat-O-Plenty-1.18.2-1.5.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file configured-1.5.3-1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file connectedglass-1.1.3-mc1.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file connectivity-1.18.2-2.8.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file constructionwand-1.18.2-2.7.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Controlling-forge-1.18.2-9.0+19.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file cookingforblockheads-forge-1.18.2-12.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file CosmeticArmorReworked-1.18.2-v2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file craftingtweaks-forge-1.18.1-14.0.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file CraftTweaker-forge-1.18.2-9.1.116.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file create-mc1.18.2_v0.4.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file create-stuff-additions1.18.2_v1.1.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file createaddition-1.18.2-20220424a.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file createdeco-1.2.7-1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file createplus-1.18.2_v0.4.0.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file creativecrafter-1.18.2-0.2121.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Croptopia-1.18.2-FORGE-2.0.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file croptopia-chocolaterie-1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file CTM-1.18.2-1.1.4+4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Cucumber-1.18.2-5.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file culinaryconstruct-forge-1.18.2-4.3.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file curios-forge-1.18.2-5.0.7.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file curiouselytra-forge-1.18.1-5.0.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Cyclic-1.18.2-1.6.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file CyclopsCore-1.18.2-1.13.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file DarkUtilities-Forge-1.18.2-10.0.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Decorative Blocks Compat-forge-1.18.2-2.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Decorative Blocks-forge-1.18.2-2.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file deepresonance-3.0.4-beta.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file defaultoptions-forge-1.18.1-14.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file DeLogger-4.0.0-build.4+mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file dimdungeons-1.14.0-forge-1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file DimStorage-1.18.2-6.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file discerning-furnace-1.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file dpanvil-1.18.2-3.3.2c.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file DrawersTooltip-1.18.2-forge-5.0.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file druidcraftrg-0.0.12.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file DungeonCrawl-1.18.2-2.3.8.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Dynamic Electricity-1.18.2-0.4.0-0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file dynview-1.18.2-2.7.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file easy_piglins-1.18.2-1.0.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file easy_villagers-1.18.2-1.0.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ecologics-FORGE-1.18.2-1.6.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file EditSign-1.18.2-2.3.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Electrodynamics-1.18.2-0.6.3-5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file elementalcraft-1.18.2-4.3.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file elevatorid-1.18.2-1.8.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file EnchantingInfuser-v3.2.0-1.18.2-Forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.18.2-10.0.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file enderchests-1.18-1.9.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file EnderRift-1.18.1-2.4.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file endertanks-1.18-1.11.6.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file engineersdecor-1.18.2-1.1.22-b2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file EnigmaticLegacy-2.21.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file entangled-1.3.10-mc1.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file entityculling-forge-mc1.18-1.5.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file expandability-6.0.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file expandedstorage-7.3.11+1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ExperienceBugFix-1.18-1.38.0.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file extendedslabs-1.18.2-2.0.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ExtraDisks-1.18.2-2.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ExtraStorage-1.18.2-2.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ExtremeReactors2-1.18.2-2.0.42.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file FarmersDelight-1.18.2-1.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file FarmersRespite-1.18.2-1.2.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file farmingforblockheads-forge-1.18.2-10.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file farmingutils-1.18.2-0.1.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file FastFurnace-1.18.2-6.0.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file FastLeafDecay-28.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file FastSuite-1.18.2-3.0.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file FastWorkbench-1.18.2-6.0.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ferritecore-4.2.1-forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file flatbedrock-1.4.2-build.9+mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file flywheel-forge-1.18-0.6.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file forbidden_arcanus-1.18.2-2.1.0-beta1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ForgeEndertech-1.18.2-9.0.0.0-build.0256.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ftb-chunks-forge-1802.3.5-build.130.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ftb-essentials-1802.1.7-build.40.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ftb-library-forge-1802.3.6-build.115.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ftb-teams-forge-1802.2.6-build.51.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ftb-ultimine-forge-1802.3.3-build.55.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file geckolib-1.18-forge-3.0.15.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file glassential-forge-1.18.2-1.2.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Global Data-  Resourcepacks-forge-1.18.2-1.12.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file HammerLib-1.18.2-18.2.16.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file hats-and-cosmetics-1.0-1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file hexcasting-1.18.2-0.8.2[1].jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file honeyexpansion-1.1.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file horizontalpanes-1.1.7+1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file HostileNeuralNetworks-1.18.2-3.0.10.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file idas_forge-1.0.9+1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ImmersiveEngineering-1.18.2-8.0.1-147.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file incontrol-1.18-6.0.6.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Industrial Agriculture[Core]-1.18.1-1.8.17.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file IntegratedCrafting-1.18.2-1.0.22.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file IntegratedDynamics-1.18.2-1.10.13.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file IntegratedTerminals-1.18.2-1.2.16.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file IntegratedTunnels-1.18.2-1.8.11.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ironfurnaces-1.18.2-3.2.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file IronJetpacks-1.18.2-5.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file itemcollectors-1.1.5-mc1.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file JAOPCA-1.18.2-4.1.2.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file jeed-1.18.2-1.10.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file jei-1.18.2-9.7.0.193.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file JEITweaker-1.18.2-3.0.0.8.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file jmi-1.18.2-0.9-49.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file journeymap-1.18.2-5.8.2-forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file JustEnoughProfessions-1.18.2-1.2.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file JustEnoughResources-1.18.2-0.14.1.167.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file kleeslabs-forge-1.18.1-11.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file konkrete_forge_1.3.3_MC_1.18-1.18.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file kotlinforforge-3.3.2-obf.jar of type LANGPROVIDER with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Ksyxis-Forge1.17-1.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file kubejs-create-1802.2.1-build.16.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file kubejs-forge-1802.5.1-build.366.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file kubejs-immersive-engineering-1802.2.1-build.35.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file lazydfu-1.0-1.18+.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file libnonymous-2.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file LibraryFerret-Forge-1.18.2-1.0.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file LibX-1.18.2-3.2.17.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file littlecontraptions-forge-1.18.2.0-beta.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file littlelogistics-mc1.18.2-v1.2.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file lootr-1.18.2-0.2.16.52.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file macawsbridgesbop-1.18.2-1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file macawsroofsbop-1.18.2-1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mahoutsukai-1.18.2-v1.34.12.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file malum-1.18.2-1.3.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mcjtylib-1.18-6.0.13.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mcw-bridges-2.0.2-mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mcw-doors-1.0.6-mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mcw-fences-1.0.4-mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mcw-roofs-2.1.2-mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mcw-trapdoors-1.0.5-mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mcw-windows-2.0.3-mc1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mcwfencesbop-1.18.2-1.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Mekanism-1.18.2-10.2.0.459.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file MekanismGenerators-1.18.2-10.2.0.459.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file MekanismTools-1.18.2-10.2.0.459.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mininggadgets-1.11.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file mob_grinding_utils-1.18.2-0.4.36.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file modnametooltip-1.18.1-1.18.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file modular-routers-1.18.2-9.1.0-2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file MoreMekanismProcessing-1.18.2-2.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file moreminecarts-1.4.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Morph-o-Tool-1.5-32.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file MouseTweaks-forge-mc1.18-2.21.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file MysticalAdaptations-1.18.2-1.1.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file MysticalAgradditions-1.18.2-5.1.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file MysticalAgriculture-1.18.2-5.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file MythicBotany-1.18.2-2.1.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Nameless Trinkets-1.18.2-1.5.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file NaturesAura-36.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file NaturesCompass-1.18.2-1.9.5-forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Neat 1.8-30.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file netherportalfix-forge-1.18-9.0.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file NethersDelight-1.18.2-2.2.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ninjaphenix-container-library-1.3.0+1.18-forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file notenoughcrashes-4.1.4+1.18.2-forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Nuclear Science-1.18.2-0.4.8-7.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file oauth-1.1.13-1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file occultism-1.18.2-1.33.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file oculus-mc1.18.2-1.2.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file OreTree-1.18.2-0.2.5.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ortus-1.18.2-1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file PackagedAuto-1.18.2-3.1.1.10.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file pamhc2foodcore-1.18.2-1.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Patchouli-1.18.2-67.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file paucal-1.18.2-0.3.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file PickleTweaks-1.18.2-6.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file PigPen-Forge-1.18.2-8.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file pipez-1.18.2-1.1.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Placebo-1.18.2-6.2.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file pocketstorage-1.18.2-1.0.1-build.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file polymorph-forge-1.18.1-0.43.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file PortableCraftingTable-1.18.2-3.0.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file portabletanks-1.1.4-mc1.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file PuzzlesLib-v3.3.2-1.18.2-Forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Quark-3.2-353.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Quick Harvest-1.18.2-1.6.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file quirkygenerators-1.18.2-2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file refinedstorage-1.10.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file refinedstorageaddons-0.8.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file reliquary-1.18.2-2.0.2.1131.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file replantingcrops_1.18.2-2.6.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file rftoolsbase-1.18-3.0.7.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file rftoolsbuilder-1.18-4.0.9.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file rftoolscontrol-1.18-5.0.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file rftoolspower-1.18-4.0.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file rftoolsutility-1.18-4.0.14.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file rhino-forge-1801.1.9-build.135.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file RingOfMiner-Forge-1.18.2-1.4.8.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file RingsOfAscension-1.18.2-1.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file rsgauges-1.18.2-1.2.16-b1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file RSInfinityBooster-1.18.2-2.1+16.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file rubidium-0.5.2a.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Runelic-Forge-1.18.2-11.0.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ScalableCatsForce-2.13.8-build-4-with-library.jar of type LANGPROVIDER with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file selene-1.18.2-1.15.6.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file shetiphiancore-1.18-3.10.9.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file silent-gear-1.18.2-2.10.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file silent-lib-1.18.2-6.2.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file simple_buffers-forge-0.1.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file SimpleStorageNetwork-1.18.2-1.6.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file smoothchunk-1.18.2-1.7.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Snad-1.18.2-1.22.04.15a.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file SoL-Carrot-1.18.1-1.12.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file solarcraft-1.18.2-2.6.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file SolarFluxReborn-1.18.2-18.2.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file sophisticatedbackpacks-1.18.2-3.15.17.559.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file spark-1.9.1-forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file speedyhoppers-1.18.2-1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file starlight-1.0.2+forge.546ae87.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file starterkit_1.18.2-3.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file StorageDrawers-1.18.2-10.2.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file structure_gel-1.18.2-2.2.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file SuperFactoryManager-1.18.2-4.0.3.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file supermartijn642configlib-1.0.9-mc1.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file supermartijn642corelib-1.0.16b-mc1.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file supplementaries-1.18.2-1.3.7.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file sushigocrafting-1.18.2-0.3.4.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file TerraBlender-forge-1.18.2-1.1.0.99.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Terralith_v2.2.1a.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file tesseract-1.0.25-mc1.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file The_Undergarden-1.18.2-0.7.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file themillmanlib-1.18.2-0.0.13.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file theoneprobe-1.18-5.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file time-in-a-bottle-2.1.0-mc1.18.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file tinyredstone-1.18.2-3.2.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file titanium-1.18.2-3.5.0-32.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ToastControl-1.18.2-6.0.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file tombstone-7.4.4-1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ToolBelt-1.18.2-1.18.8.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file torchmaster-18.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file trashcans-1.0.14-mc1.18.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file TravelersBackpack-1.18.2-7.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file travellersboots-1.18-1.6.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file twigs-forge-1.1.4-patch3+1.18.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file universalgrid-1.18.1-1.032.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file upgradedcore-1.18.2-3.2.0.0-release.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file upgradednetherite-1.18.2-4.2.0.2-beta.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file upgradednetherite_creative-1.18.2-3.2.0.0-release.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file upgradednetherite_items-1.18.2-3.2.0.0-release.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file upgradednetherite_ultimate-1.18.2-3.2.0.0-release.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file Uppers-0.4.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file valhelsia_core-1.18.2-0.3.1.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file VisualWorkbench-v3.2.0-1.18.2-Forge.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file waystones-forge-1.18.2-10.0.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file WitherSkeletonTweaks-1.18.2-7.1.2.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file woodenhopper-1.18.1-1.2.1.0.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file xnet-1.18-4.0.5.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file ZeroCore2-1.18.2-2.1.16.jar of type MOD with locator {mods folder locator at D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\mods}
+[07:35:33] [main/INFO]: Found mod file fmlcore-1.18.2-40.1.0.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@42deb43a
+[07:35:33] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@42deb43a
+[07:35:33] [main/INFO]: Found mod file mclanguage-1.18.2-40.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@42deb43a
+[07:35:33] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@42deb43a
+[07:35:33] [main/INFO]: Found mod file forge-1.18.2-40.1.0-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@42deb43a
+[07:35:39] [main/INFO]: Compatibility level set to JAVA_17
+[07:35:40] [main/ERROR]: Mixin config flatbedrock.mixins.json does not specify "minVersion" property
+[07:35:40] [main/ERROR]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[07:35:40] [main/ERROR]: Mixin config rubidium.mixins.json does not specify "minVersion" property
+[07:35:40] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.endertanks.mixins.MixinConnector]
+[07:35:40] [main/INFO]: Successfully loaded Mixin Connector [com.integral.enigmaticlegacy.MixinConnector]
+[07:35:40] [main/INFO]: Successfully loaded Mixin Connector [thelm.jaopca.mixins.JAOPCAMixinConnector]
+[07:35:40] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[07:35:40] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[07:35:40] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-40.1.0, --gameDir, D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2, --assetsDir, D:\Users\dylan\AppData\Instances\Install\assets, --uuid, 5370187baa52494394ca5e507d156041, --username, LOADER_is_Queen, --assetIndex, 1.18, --accessToken, ????????, --clientId, MGM5ZTY1ZmMtZGNmZS00MGYwLWEzZWMtY2RmZWQ1Y2FiZGRh, --xuid, 2535416532679572, --userType, msa, --versionType, release, --width, 1920, --height, 1080]
+[07:35:40] [main/WARN]: Reference map 'ars_instrumentum.refmap.json' for ars_instrumentum.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:35:41] [main/WARN]: Reference map 'createdeco.refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:35:41] [main/WARN]: Reference map 'decorative_compat.refmap.json' for decorative_compat.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:35:41] [main/WARN]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:35:41] [main/WARN]: Reference map 'nethersdelight.refmap.json' for nethersdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:35:41] [main/WARN]: Reference map 'rhino-forge-refmap.json' for rhino.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:35:41] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[07:35:41] [main/INFO]: Loaded configuration file for Rubidium: 29 options available, 0 override(s) found
+[07:35:41] [main/WARN]: Reference map 'undergarden.refmap.json' for undergarden.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:35:41] [main/WARN]: Reference map 'ultramega.refmap.json' for universalgrid.mixins.json could not be read. If this is a development environment you can ignore this message
+[07:35:42] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[07:35:43] [main/INFO]: Patching FishingHook#catchingFish
+[07:35:43] [main/WARN]: Error loading class: de/maxhenkel/gravestone/events/DeathEvents (java.lang.ClassNotFoundException: de.maxhenkel.gravestone.events.DeathEvents)
+[07:35:43] [main/WARN]: Error loading class: de/maxhenkel/corpse/events/DeathEvents (java.lang.ClassNotFoundException: de.maxhenkel.corpse.events.DeathEvents)
+[07:35:43] [main/WARN]: Error loading class: net/darkhax/darkutils/features/charms/CharmEffects (java.lang.ClassNotFoundException: net.darkhax.darkutils.features.charms.CharmEffects)
+[07:35:43] [main/WARN]: Error loading class: com/brandon3055/csg/ModEventHandler (java.lang.ClassNotFoundException: com.brandon3055.csg.ModEventHandler)
+[07:35:43] [main/INFO]: !!! SOME LOGGERS HAVE MOVED TO THE DEBUG FILE (Please Include them in your bug reports) !!!
+[07:35:44] [main/INFO]: Mixing MixinPlayer from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.entity.player.Player
+[07:35:44] [main/INFO]: Mixing MixinLivingEntity from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.entity.LivingEntity
+[07:35:44] [main/WARN]: @Inject(@At("HEAD")) Shift.BY=1 on blueprint.mixins.json:EntityMixin::handler$zgf000$baseTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[07:35:45] [pool-3-thread-1/INFO]: Mixing MixinMobEffect from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.effect.MobEffect
+[07:35:46] [pool-3-thread-1/INFO]: Mixing MixinEnchantmentContainer from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.inventory.EnchantmentMenu
+[07:35:46] [pool-3-thread-1/INFO]: Renaming synthetic method lambda$onEnchantedItem$0(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/inventory/EnchantmentMenu;ILnet/minecraft/world/entity/player/Player;ILnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;)V to md93d6c0$lambda$onEnchantedItem$0$0 in assets/enigmaticlegacy/enigmaticlegacy.mixins.json:MixinEnchantmentContainer
+[07:35:46] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[07:35:46] [pool-3-thread-1/INFO]: Replaced 5 calls to Enchantment#getMaxLevel() in vazkii/quark/content/tools/module/AncientTomesModule
+[07:35:46] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[07:35:46] [pool-3-thread-1/INFO]: BeforeConstant is searching for constants in method with descriptor ()V
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 1
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 2
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 3
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 4
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 5
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 6
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 7
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 8
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 9
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 10
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 11
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 12
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 4, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 13
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_4] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 14
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 15
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 16
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 4, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 17
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_4] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 18
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 19
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 12, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 20
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found IntInsn 12
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 100, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 21
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found IntInsn 100
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 22
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 23
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 24
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/world/item/enchantment/Enchantment;, typeValue = null
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 25
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found CLASS constant: value = Ljava/lang/Integer;, typeValue = null
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found CLASS constant: value = Ljava/lang/Integer;, typeValue = null
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 26
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 27
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/world/item/enchantment/Enchantment;, typeValue = null
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 28
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 29
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 30
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 31
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 32
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 2, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 33
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_2] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 4, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 34
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_4] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 8, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 35
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found IntInsn 8
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 36
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 2, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 37
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_2] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 38
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 40, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 39
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found IntInsn 40
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 40
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 41
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 42
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 1, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 43
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_1] 
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 40, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 44
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found IntInsn 40
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 39, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 45
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found IntInsn 39
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 40, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 46
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found IntInsn 40
+[07:35:46] [pool-3-thread-1/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[07:35:46] [pool-3-thread-1/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 47
+[07:35:46] [pool-3-thread-1/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[07:35:47] [pool-3-thread-1/INFO]: Lazy DFU
+[07:35:47] [pool-3-thread-1/INFO]: Mixing AccessorAbstractArrowEntity from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.entity.projectile.AbstractArrow
+[07:35:47] [pool-3-thread-1/INFO]: Mixing MixinEnderDragon from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.entity.boss.enderdragon.EnderDragon
+[07:35:48] [pool-3-thread-1/INFO]: Mixing MixinShulker from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.Shulker
+[07:35:48] [pool-3-thread-1/INFO]: Mixing MixinVillagerEntity from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.entity.npc.Villager
+[07:35:48] [pool-3-thread-1/INFO]: Mixing MixinVillager from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.entity.npc.Villager
+[07:35:48] [pool-3-thread-1/INFO]: Patching FishingHook#catchingFish
+[07:35:48] [pool-3-thread-1/INFO]: replacing structure template pool for minecraft:village/plains/houses
+[07:35:48] [pool-3-thread-1/INFO]: replacing structure template pool for minecraft:village/snowy/houses
+[07:35:48] [pool-3-thread-1/INFO]: replacing structure template pool for minecraft:village/savanna/houses
+[07:35:48] [pool-3-thread-1/INFO]: replacing structure template pool for minecraft:village/desert/houses
+[07:35:48] [pool-3-thread-1/INFO]: replacing structure template pool for minecraft:village/taiga/houses
+[07:35:48] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[07:35:49] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[07:35:49] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[07:35:49] [pool-3-thread-1/INFO]: Mixing MixinInventoryChangeTrigger from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.advancements.critereon.InventoryChangeTrigger
+[07:35:50] [Render thread/WARN]: Method overwrite conflict for m_85995_ in rubidium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.
+[07:35:50] [Render thread/WARN]: Assets URL 'union:/D:/Users/dylan/AppData/Instances/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23378!/assets/.mcassetsroot' uses unexpected schema
+[07:35:50] [Render thread/WARN]: Assets URL 'union:/D:/Users/dylan/AppData/Instances/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23378!/data/.mcassetsroot' uses unexpected schema
+[07:35:50] [Render thread/INFO]: Setting user: LOADER_is_Queen
+[07:35:50] [Render thread/INFO]: Loaded default options for extra/*
+[07:35:50] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[07:35:50] [Render thread/INFO]: Loaded client.properties
+[07:35:51] [Render thread/INFO]: [GL] Using KHR_debug for error logging.
+[07:35:51] [Render thread/WARN]: [GL] Warning: A non-debug context may not produce any debug output.
+[07:35:51] [Render thread/INFO]: Debug functionality is enabled, logging will be more verbose!
+[07:35:51] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[07:35:51] [Render thread/INFO]: Shaders are disabled
+[07:35:51] [Render thread/INFO]: Mixing DiSEAsE from assets/enigmaticlockbox/enigmaticlockbox.mixins.json into com.aizistral.enigmaticlockbox.pAIN
+[07:35:51] [modloading-worker-0/INFO]: Macaw's Bridges - Biome O' Plenty : Loading ...
+[07:35:51] [modloading-worker-0/INFO]: Loading config: D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\config\universalgrid-common.toml
+[07:35:51] [modloading-worker-0/INFO]: Built config: D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\config\universalgrid-common.toml
+[07:35:51] [modloading-worker-0/INFO]: Loaded config: D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\config\universalgrid-common.toml
+[07:35:51] [modloading-worker-0/INFO]: Macaw's Bridges - Biome O' Plenty : Is Charged
+[07:35:52] [modloading-worker-0/INFO]: Registered charge handler for type org.zeith.hammerlib.util.charging.fluid.FluidCharge - org.zeith.hammerlib.util.charging.impl.FluidChargeHandler@7a41c2a0
+[07:35:52] [modloading-worker-0/INFO]: Registered charge handler for type org.zeith.hammerlib.util.charging.fe.FECharge - org.zeith.hammerlib.util.charging.impl.FEChargeHandler@39bc88f0
+[07:35:52] [modloading-worker-0/INFO]: Registered inventory lister org.zeith.hammerlib.util.charging.impl.VanillaPlayerInvLister
+[07:35:52] [modloading-worker-0/INFO]: Better Compatibility Checker loading
+[07:35:52] [modloading-worker-0/INFO]: Loading config: D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\config\cabletiers-common.toml
+[07:35:52] [modloading-worker-0/INFO]: Built config: D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\config\cabletiers-common.toml
+[07:35:52] [modloading-worker-0/INFO]: Loaded config: D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\config\cabletiers-common.toml
+[07:35:52] [modloading-worker-0/INFO]: Macaw's Fences - Biome O' Plenty : Loading ...
+[07:35:52] [modloading-worker-0/INFO]: Macaw's Fences - Biome O' Plenty : Is Charged
+[07:35:52] [modloading-worker-0/INFO]: Injecting setup into org.zeith.hammerlib.net.Network
+[07:35:52] [modloading-worker-0/INFO]: Injecting setup into org.zeith.hammerlib.core.test.machine.RecipeTestMachine
+[07:35:52] [modloading-worker-0/INFO]: Injecting setup into org.zeith.hammerlib.client.pipelines.shaders.VariableShaderProgram
+[07:35:52] [modloading-worker-0/INFO]: Initializing Update Checker...
+[07:35:52] [ Iron Furnaces Update Checker/INFO]: Starting Update Check...
+[07:35:52] [ Iron Furnaces Update Checker/INFO]: Update Check done!
+[07:35:52] [ Iron Furnaces Update Checker/INFO]: Iron Furnaces is up to date!
+[07:35:52] [modloading-worker-0/INFO]: Creating registry manager for mod id enchantinginfuser
+[07:35:52] [modloading-worker-0/INFO]: Creating registry manager for mod id visualworkbench
+[07:35:52] [modloading-worker-0/INFO]: Mixing MixinLootTable from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.level.storage.loot.LootTable
+[07:35:52] [modloading-worker-0/INFO]: Initialized network channel 'multiblock' for mod 'bdlib'
+[07:35:52] [modloading-worker-0/INFO]: Initialized network channel 'misc' for mod 'bdlib'
+[07:35:52] [modloading-worker-0/INFO]: Mixing MixinItemRenderer from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.client.renderer.entity.ItemRenderer
+[07:35:52] [modloading-worker-0/INFO]: Mixing MixinForgeHooks from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraftforge.common.ForgeHooks
+[07:35:52] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (merchantNames in net.blay09.mods.farmingforblockheads.FarmingForBlockheadsConfigData)
+[07:35:52] [modloading-worker-0/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for Water with the ID 0
+[07:35:52] [modloading-worker-0/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for Lava with the ID 1
+[07:35:53] [modloading-worker-0/INFO]: 14 blocks registered.
+[07:35:53] [modloading-worker-0/INFO]: 29 items registered.
+[07:35:53] [modloading-worker-0/INFO]: 13 tiles registered.
+[07:35:53] [modloading-worker-0/INFO]: 13 containers registered.
+[07:35:53] [modloading-worker-0/WARN]: Ksyxis will speedup your world loading. :P
+[07:35:53] [modloading-worker-0/WARN]: BUT IT MAY CAUSE ISSUES (INCLUDING COMPAT). DON'T ASK OTHER MODS' AUTHORS FOR COMPAT!
+[07:35:53] [modloading-worker-0/INFO]: Scanning classes for sushigocrafting
+[07:35:53] [modloading-worker-0/INFO]: Found FeaturePluginInstance for class CraftTweakerPlugin for plugin crafttweaker
+[07:35:53] [modloading-worker-0/INFO]: Initialized multiblock manager for advgenerators
+[07:35:53] [modloading-worker-0/INFO]: Constructed class CraftTweakerPlugin for plugin crafttweaker for mod sushigocrafting
+[07:35:53] [modloading-worker-0/INFO]: Executing phase CONSTRUCTION for plugin class CraftTweakerPlugin
+[07:35:53] [modloading-worker-0/INFO]: Optifine not detected.
+[07:35:53] [modloading-worker-0/INFO]: Executing phase PRE_INIT for plugin class CraftTweakerPlugin
+[07:35:53] [modloading-worker-0/INFO]: Executing phase INIT for plugin class CraftTweakerPlugin
+[07:35:53] [modloading-worker-0/INFO]: Executing phase POST_INIT for plugin class CraftTweakerPlugin
+[07:35:53] [modloading-worker-0/INFO]: Initialized network channel 'generators' for mod 'advgenerators'
+[07:35:53] [modloading-worker-0/INFO]: Loading config: D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\config\creativecrafter-client.toml
+[07:35:53] [modloading-worker-0/INFO]: Built config: D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\config\creativecrafter-client.toml
+[07:35:53] [modloading-worker-0/INFO]: Loaded config: D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\config\creativecrafter-client.toml
+[07:35:53] [modloading-worker-0/INFO]: Starting Electrodynamics recipe engine
+[07:35:53] [modloading-worker-0/INFO]: Additional Bars - Biomes o' Plenty Addon has successfully loaded!
+[07:35:53] [modloading-worker-0/INFO]: AdvancedPeripherals says hello!
+[07:35:53] [Modding Legacy/blue_skies/Supporters thread/INFO]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[07:35:53] [modloading-worker-0/ERROR]: Failed to create mod instance. ModID: cacao, class com.slomaxonical.croptopia.chocolaterie.CroptopiaChocolaterie
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:67) ~[javafmllanguage-1.18.2-40.1.0.jar%23380!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:106) ~[fmlcore-1.18.2-40.1.0.jar%23379!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.lang.NoClassDefFoundError: me/thonk/croptopia/items/CookingUtensil
+	at com.slomaxonical.croptopia.chocolaterie.CroptopiaChocolaterie.<init>(CroptopiaChocolaterie.java:33) ~[croptopia-chocolaterie-1.0.jar%23143!/:1.0]
+	... 14 more
+Caused by: java.lang.ClassNotFoundException: me.thonk.croptopia.items.CookingUtensil
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:134) ~[securejarhandler-1.0.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:134) ~[securejarhandler-1.0.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at com.slomaxonical.croptopia.chocolaterie.CroptopiaChocolaterie.<init>(CroptopiaChocolaterie.java:33) ~[croptopia-chocolaterie-1.0.jar%23143!/:1.0]
+	... 14 more
+[07:35:53] [modloading-worker-0/INFO]: Items registered.
+[07:35:53] [modloading-worker-0/INFO]: Blocks registered.
+[07:35:53] [modloading-worker-0/INFO]: Global loot modifiers registered.
+[07:35:53] [modloading-worker-0/INFO]: Gauges and Switches GIT id #bfceeae.
+[07:35:53] [Modding Legacy/blue_skies/Supporters thread/INFO]: Successfully loaded the Modding Legacy supporters list.
+[07:35:53] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[07:35:53] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[07:35:53] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[07:35:53] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[07:35:53] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[07:35:53] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[07:35:53] [modloading-worker-0/INFO]: Forge mod loading, version 40.1.0, for MC 1.18.2 with MCP 20220404.173914
+[07:35:53] [modloading-worker-0/INFO]: MinecraftForge v40.1.0 Initialized
+[07:35:53] [modloading-worker-0/INFO]: Mixing MixinForgeHooksClient from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraftforge.client.ForgeHooksClient
+[07:35:53] [modloading-worker-0/INFO]: Renaming synthetic method lambda$onGatherTooltipComponents$4(Lcom/mojang/datafixers/util/Either;)Lnet/minecraft/client/gui/screens/inventory/tooltip/ClientTooltipComponent; to md93d6c0$lambda$onGatherTooltipComponents$4$0 in assets/enigmaticlegacy/enigmaticlegacy.mixins.json:MixinForgeHooksClient
+[07:35:53] [modloading-worker-0/INFO]: Renaming synthetic method lambda$onGatherTooltipComponents$3(Lnet/minecraft/network/chat/FormattedText;)Lnet/minecraft/client/gui/screens/inventory/tooltip/ClientTooltipComponent; to md93d6c0$lambda$onGatherTooltipComponents$3$1 in assets/enigmaticlegacy/enigmaticlegacy.mixins.json:MixinForgeHooksClient
+[07:35:53] [modloading-worker-0/INFO]: Renaming synthetic method lambda$onGatherTooltipComponents$2(Lnet/minecraft/client/gui/Font;Lcom/mojang/datafixers/util/Either;)I to md93d6c0$lambda$onGatherTooltipComponents$2$2 in assets/enigmaticlegacy/enigmaticlegacy.mixins.json:MixinForgeHooksClient
+[07:35:53] [modloading-worker-0/INFO]: Renaming synthetic method lambda$onGatherTooltipComponents$1(Lnet/minecraft/world/inventory/tooltip/TooltipComponent;)Ljava/lang/Integer; to md93d6c0$lambda$onGatherTooltipComponents$1$3 in assets/enigmaticlegacy/enigmaticlegacy.mixins.json:MixinForgeHooksClient
+[07:35:53] [modloading-worker-0/INFO]: Renaming synthetic method lambda$onGatherTooltipComponents$0(Ljava/util/List;Lnet/minecraft/world/inventory/tooltip/TooltipComponent;)V to md93d6c0$lambda$onGatherTooltipComponents$0$4 in assets/enigmaticlegacy/enigmaticlegacy.mixins.json:MixinForgeHooksClient
+[07:35:53] [modloading-worker-0/INFO]: Macaw's Roofs - Biome O' Plenty : Loading...
+[07:35:53] [modloading-worker-0/INFO]: Macaw's Roofs - Biome O' Plenty : Is Charged
+[07:35:54] [modloading-worker-0/INFO]: [KONKRETE] Successfully initialized!
+[07:35:54] [modloading-worker-0/INFO]: [KONKRETE] Server-side libs ready to use!
+[07:35:54] [modloading-worker-0/INFO]: Otifine does not seem to be loaded, so no need to overwrite anything.
+[07:35:54] [modloading-worker-0/INFO]: Found 3 RS API injection points
+[07:35:54] [modloading-worker-0/INFO]: Injected RS API in com.YTrollman.UniversalGrid.UniversalGrid RSAPI
+[07:35:54] [modloading-worker-0/INFO]: Injected RS API in org.cyclops.integrateddynamicscompat.modcompat.refinedstorage.aspect.RefinedStorageAspects RS
+[07:35:54] [modloading-worker-0/INFO]: Mixing DiSEAsE from assets/enigmaticlockbox/enigmaticlockbox.mixins.json into com.aizistral.enigmaticlockbox.DEMiSE
+[07:35:54] [modloading-worker-0/INFO]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[07:35:54] [modloading-worker-0/INFO]: Constructing mod instance...
+[07:35:54] [modloading-worker-0/INFO]: Mixing DiSEAsE from assets/enigmaticlockbox/enigmaticlockbox.mixins.json into com.aizistral.enigmaticlockbox.AbYsS
+[07:35:54] [modloading-worker-0/INFO]: Mixing DiSEAsE from assets/enigmaticlockbox/enigmaticlockbox.mixins.json into com.aizistral.enigmaticlockbox.DeCay$pAIN
+[07:35:54] [modloading-worker-0/INFO]: Mixing DiSEAsE from assets/enigmaticlockbox/enigmaticlockbox.mixins.json into com.aizistral.enigmaticlockbox.DeCay
+[07:35:54] [modloading-worker-0/INFO]: Mixing DiSEAsE from assets/enigmaticlockbox/enigmaticlockbox.mixins.json into com.aizistral.enigmaticlockbox.regRet
+[07:35:54] [modloading-worker-0/INFO]: Mixing DiSEAsE from assets/enigmaticlockbox/enigmaticlockbox.mixins.json into com.aizistral.enigmaticlockbox.DeAtH
+[07:35:54] [modloading-worker-0/INFO]: Mixing DiSEAsE from assets/enigmaticlockbox/enigmaticlockbox.mixins.json into com.aizistral.enigmaticlockbox.pAIN$pAIN
+[07:35:54] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[07:35:54] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[07:35:54] [modloading-worker-0/INFO]: Mod instance constructed successfully.
+[07:35:54] [modloading-worker-0/INFO]: Mixing MixinMiniInventoryButton from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into vazkii.quark.content.management.client.screen.widgets.MiniInventoryButton
+[07:35:55] [modloading-worker-0/INFO]: Here we go! Launching Dungeon Crawl 2.3.8...
+[07:35:55] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[07:35:55] [modloading-worker-0/INFO]: Found kubejs plugin
+[07:35:55] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[07:35:55] [modloading-worker-0/WARN]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[07:35:55] [modloading-worker-0/INFO]: Loaded config file.
+[07:35:55] [modloading-worker-0/INFO]: Saved config file.
+[07:35:55] [modloading-worker-0/INFO]: Scanning classes for titanium
+[07:35:56] [modloading-worker-0/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[07:35:56] [modloading-worker-0/INFO]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[07:35:56] [modloading-worker-0/INFO]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[07:35:56] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[07:35:56] [modloading-worker-0/INFO]: Registered plugin: com.focamacho.mysticaladaptations.lib.ModCorePlugin
+[07:35:56] [modloading-worker-0/INFO]: Registered plugin: com.github.elrol.industrialagriculture.init.IAMysticalAgricultrePlugin
+[07:35:56] [modloading-worker-0/INFO]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[07:35:56] [modloading-worker-0/INFO]: Found kubejs_create plugin
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[07:35:56] [modloading-worker-0/INFO]: Pack supplier thelm.jaopca.compat.openloader.OpenLoaderPackSupplier has missing mod dependencies, skipping
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigDungeonModule
+[07:35:56] [modloading-worker-0/INFO]: Found kubejs_immersive_engineering plugin
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.NoteBlockMobSoundsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[07:35:56] [modloading-worker-0/INFO]: Mixing MixinAutomaticRecipeUnlockModule from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[07:35:56] [modloading-worker-0/INFO]: Renaming synthetic method lambda$onAwardRecipes$0(Lnet/minecraft/world/item/crafting/Recipe;)Z to md93d6c0$lambda$onAwardRecipes$0$0 in assets/enigmaticlegacy/enigmaticlegacy.mixins.json:MixinAutomaticRecipeUnlockModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.CameraModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[07:35:56] [modloading-worker-0/INFO]: Replaced 5 calls to Enchantment#getMaxLevel() in vazkii/quark/content/tools/module/AncientTomesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[07:35:56] [modloading-worker-0/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in vazkii/quark/content/tools/item/AncientTomeItem
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FrogsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[07:35:56] [modloading-worker-0/INFO]: Engineer's Decor GIT id #71dab20.
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ChestsInBoatsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.ZombieVillagersOnNormalModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[07:35:56] [modloading-worker-0/INFO]: Mixing MixinImprovedTooltipsModule from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into vazkii.quark.content.client.module.ImprovedTooltipsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybind
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[07:35:56] [modloading-worker-0/INFO]: [BetterF3] Starting...
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.OrientalPaletteModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[07:35:56] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[07:35:56] [modloading-worker-0/INFO]: Found ftbchunks plugin
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[07:35:56] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[07:35:56] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT
+[07:35:56] [modloading-worker-0/INFO]: Found jaopca plugin
+[07:35:56] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[07:35:56] [modloading-worker-0/INFO]: Done in 1 s
+[07:35:56] [modloading-worker-0/INFO]: Loaded block entity configuration.
+[07:35:56] [modloading-worker-0/INFO]: Loaded block configuration.
+[07:35:56] [modloading-worker-0/INFO]: Loaded chisel mode group configuration.
+[07:35:56] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT_CLIENT
+[07:35:56] [modloading-worker-0/INFO]: Loaded common.properties
+[07:35:57] [modloading-worker-0/INFO]: Hello, World! (You will only see this line once in console, during startup)
+[07:35:57] [modloading-worker-0/INFO]: Loaded script startup_scripts:script.js in 0.066 s
+[07:35:57] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 0.202 s
+[07:35:57] [modloading-worker-0/INFO]: Hello, World! (You will see this line every time client resources reload)
+[07:35:57] [modloading-worker-0/INFO]: Loaded script client_scripts:script.js in 0.001 s
+[07:35:57] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.006 s
+[07:35:57] [modloading-worker-0/ERROR]: Tag ores in namespace forge has no type
+[07:35:57] [modloading-worker-0/INFO]: Found 4586 unique defined tags
+[07:35:57] [modloading-worker-0/INFO]: Loaded chisel mode configuration.
+[07:35:57] [modloading-worker-0/INFO]: Loaded container type configuration.
+[07:35:57] [modloading-worker-0/INFO]: Loaded item group configuration.
+[07:35:58] [modloading-worker-0/INFO]: Loaded item configuration.
+[07:35:58] [modloading-worker-0/INFO]: Loaded metadata key configuration.
+[07:35:58] [modloading-worker-0/INFO]: Loaded model property configuration.
+[07:35:58] [modloading-worker-0/INFO]: Loaded modification operation configuration.
+[07:35:58] [modloading-worker-0/INFO]: Loaded modification operation group configuration.
+[07:35:58] [modloading-worker-0/INFO]: Loaded pattern placement type configuration.
+[07:35:58] [modloading-worker-0/INFO]: Loaded recipe serializer configuration.
+[07:35:58] [modloading-worker-0/INFO]: Loaded tag configuration.
+[07:35:58] [modloading-worker-0/INFO]: Found 31904 unique defined recipes
+[07:35:58] [modloading-worker-0/INFO]: Found 12893 unique defined loot tables
+[07:35:59] [modloading-worker-0/INFO]: Found 13116 unique defined advancements
+[07:35:59] [modloading-worker-0/INFO]: Module thelm.jaopca.compat.voluminousenergy.VoluminousEnergyModule has missing mod dependencies, skipping
+[07:35:59] [modloading-worker-0/INFO]: Module thelm.jaopca.compat.voluminousenergy.VoluminousEnergyDustModule has missing mod dependencies, skipping
+[07:35:59] [modloading-worker-0/INFO]: Module thelm.jaopca.compat.voluminousenergy.VoluminousEnergyCrystalModule has missing mod dependencies, skipping
+[07:35:59] [modloading-worker-0/INFO]: Module thelm.jaopca.compat.voluminousenergy.VoluminousEnergyCompatModule has missing mod dependencies, skipping
+[07:35:59] [modloading-worker-0/INFO]: Added 129 materials
+[07:36:00] [Render thread/FATAL]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[07:36:00] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundLoadEvent to a broken mod state
+[07:36:00] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Block to a broken mod state
+[07:36:00] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Item to a broken mod state
+[07:36:00] [Render thread/INFO]: Hardware information:
+[07:36:00] [Render thread/INFO]: CPU: 12x Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz
+[07:36:00] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 471.11)
+[07:36:00] [Render thread/INFO]: OS: Windows 10 (10.0)
+[07:36:00] [Render thread/INFO]: Mixing MixinEnchantmentHelper from assets/enigmaticlegacy/enigmaticlegacy.mixins.json into net.minecraft.world.item.enchantment.EnchantmentHelper
+[07:36:00] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ParticleFactoryRegisterEvent to a broken mod state
+[07:36:00] [Render thread/WARN]: Method overwrite conflict for getNativeMemoryUsage in rubidium.mixins.json:features.debug.MixinDebugHud, previously written by net.coderbot.iris.mixin.MixinDebugScreenOverlay. Skipping method.
+[07:36:00] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[07:36:00] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterClientReloadListenersEvent to a broken mod state
+[07:36:00] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterLayerDefinitions to a broken mod state
+[07:36:00] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterRenderers to a broken mod state
+[07:36:00] [Render thread/INFO]: Reloading ResourceManager: Default, quark-emote-pack, Solar Flux Generated Resources, KubeJS Resource Pack [assets]
+[07:36:00] [Render thread/ERROR]: Could not find resource supplementaries:blockstates/hanging_sign_oak.json while generating dynamic resource pack
+[07:36:00] [Render thread/ERROR]: Could not find resource supplementaries:models/block/hanging_signs/hanging_sign_oak.json while generating dynamic resource pack
+[07:36:00] [Render thread/ERROR]: Could not find resource supplementaries:models/block/hanging_signs/loader_template.json while generating dynamic resource pack
+[07:36:00] [Render thread/ERROR]: Could not find resource supplementaries:models/item/hanging_sign_oak.json while generating dynamic resource pack
+[07:36:00] [Render thread/ERROR]: Could not find resource supplementaries:models/item/sign_post_oak.json while generating dynamic resource pack
+[07:36:00] [Render thread/ERROR]: Could not generate any Hanging Sign block texture : 
+java.io.FileNotFoundException: supplementaries:textures/blocks/hanging_signs/hanging_sign_oak.png
+	at net.mehvahdjukaar.selene.resourcepack.VanillaResourceManager.m_142591_(VanillaResourceManager.java:100) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.mehvahdjukaar.selene.resourcepack.asset_generators.textures.SpriteUtils.readImage(SpriteUtils.java:18) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.mehvahdjukaar.supplementaries.dynamicpack.ClientDynamicResourcesHandler.regenerateDynamicAssets(ClientDynamicResourcesHandler.java:149) ~[supplementaries-1.18.2-1.3.7.jar%23345!/:1.18.2-1.3.7]
+	at net.mehvahdjukaar.selene.resourcepack.RPAwareDynamicResourceProvider.m_5540_(RPAwareDynamicResourceProvider.java:55) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10827_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.<init>(SimpleReloadInstance.java:44) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10815_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_203834_(SimpleReloadInstance.java:101) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.ReloadableResourceManager.m_142463_(ReloadableResourceManager.java:47) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:548) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.1.0.jar%2316!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+[07:36:00] [Render thread/ERROR]: Could not generate any Hanging Sign item texture : 
+java.io.FileNotFoundException: supplementaries:textures/items/hanging_signs/template.png
+	at net.mehvahdjukaar.selene.resourcepack.VanillaResourceManager.m_142591_(VanillaResourceManager.java:100) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.mehvahdjukaar.selene.resourcepack.asset_generators.textures.SpriteUtils.readImage(SpriteUtils.java:18) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.mehvahdjukaar.supplementaries.dynamicpack.ClientDynamicResourcesHandler.regenerateDynamicAssets(ClientDynamicResourcesHandler.java:180) ~[supplementaries-1.18.2-1.3.7.jar%23345!/:1.18.2-1.3.7]
+	at net.mehvahdjukaar.selene.resourcepack.RPAwareDynamicResourceProvider.m_5540_(RPAwareDynamicResourceProvider.java:55) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10827_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.<init>(SimpleReloadInstance.java:44) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10815_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_203834_(SimpleReloadInstance.java:101) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.ReloadableResourceManager.m_142463_(ReloadableResourceManager.java:47) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:548) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.1.0.jar%2316!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+[07:36:00] [Render thread/ERROR]: Could not generate any Sign Post item texture : 
+java.io.FileNotFoundException: supplementaries:textures/items/sign_posts/template.png
+	at net.mehvahdjukaar.selene.resourcepack.VanillaResourceManager.m_142591_(VanillaResourceManager.java:100) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.mehvahdjukaar.selene.resourcepack.asset_generators.textures.SpriteUtils.readImage(SpriteUtils.java:18) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.mehvahdjukaar.supplementaries.dynamicpack.ClientDynamicResourcesHandler.regenerateDynamicAssets(ClientDynamicResourcesHandler.java:242) ~[supplementaries-1.18.2-1.3.7.jar%23345!/:1.18.2-1.3.7]
+	at net.mehvahdjukaar.selene.resourcepack.RPAwareDynamicResourceProvider.m_5540_(RPAwareDynamicResourceProvider.java:55) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10827_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.<init>(SimpleReloadInstance.java:44) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10815_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_203834_(SimpleReloadInstance.java:101) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.ReloadableResourceManager.m_142463_(ReloadableResourceManager.java:47) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:548) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.1.0.jar%2316!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+[07:36:00] [Render thread/ERROR]: Could not generate any Sign Post block texture : 
+java.io.FileNotFoundException: supplementaries:textures/entity/sign_posts/sign_post_oak.png
+	at net.mehvahdjukaar.selene.resourcepack.VanillaResourceManager.m_142591_(VanillaResourceManager.java:100) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.mehvahdjukaar.selene.resourcepack.asset_generators.textures.SpriteUtils.readImage(SpriteUtils.java:18) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.mehvahdjukaar.supplementaries.dynamicpack.ClientDynamicResourcesHandler.regenerateDynamicAssets(ClientDynamicResourcesHandler.java:296) ~[supplementaries-1.18.2-1.3.7.jar%23345!/:1.18.2-1.3.7]
+	at net.mehvahdjukaar.selene.resourcepack.RPAwareDynamicResourceProvider.m_5540_(RPAwareDynamicResourceProvider.java:55) ~[selene-1.18.2-1.15.6.jar%23324!/:1.18.2-1.15.6]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10827_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.<init>(SimpleReloadInstance.java:44) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10815_(SimpleReloadInstance.java:32) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_203834_(SimpleReloadInstance.java:101) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.server.packs.resources.ReloadableResourceManager.m_142463_(ReloadableResourceManager.java:47) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:548) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%23378!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.1.0.jar%2316!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+[07:36:00] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Supplementaries Virtual Resourcepack in: 9 ms
+[07:36:00] [Render thread/INFO]: Loaded default options for keymappings
+[07:36:00] [Worker-Main-6/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ModelRegistryEvent to a broken mod state
+[07:36:00] [Worker-Main-4/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:00] [Worker-Main-2/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:00] [Worker-Main-9/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:04] [Worker-Main-6/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:04] [Worker-Main-6/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:04] [Worker-Main-6/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:04] [Worker-Main-6/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:04] [Worker-Main-6/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:04] [Worker-Main-6/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:04] [Worker-Main-6/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[07:36:04] [Render thread/ERROR]: Cowardly refusing to send event com.jozufozu.flywheel.event.GatherContextEvent to a broken mod state
+[07:36:04] [Render thread/INFO]: Loaded all shader sources.
+[07:36:04] [Render thread/INFO]: Loaded 0 journal_lang
+[07:36:04] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek High Definition Audio)
+[07:36:04] [Render thread/INFO]: Sound engine started
+[07:36:04] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:04] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:04] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:04] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:04] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:04] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:04] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:04] [Render thread/WARN]: Method overwrite conflict for getSprite in ae2.mixins.json:unlitquad.BakedQuadAccessor, previously written by me.jellysquid.mods.sodium.mixin.core.pipeline.MixinBakedQuad. Skipping method.
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ModelBakeEvent to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$AddLayers to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterShadersEvent to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:05] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[07:36:05] [Render thread/FATAL]: Preparing crash report with UUID 2bda1879-a39d-4357-a204-ec4b053db8d4
+[07:36:05] [Render thread/FATAL]: Crash report saved to D:\Users\dylan\AppData\Instances\Instances\KAPPARPACK 1.18.2\crash-reports\crash-2022-04-28_07.36.05-fml.txt
+[07:36:05] [Render thread/FATAL]: Preparing crash report with UUID ad718cab-1a0a-4e85-8c94-a354fe029cdd
+[07:37:07] [Render thread/INFO]: Stopping!
+[07:37:07] [Render thread/INFO]: Shutting down map thread

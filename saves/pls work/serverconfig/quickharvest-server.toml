@@ -1,0 +1,226 @@
+
+[default]
+	#If true, this harvester will be enabled.
+	enabled = false
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = false
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = ""
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:air"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[wheat]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = true
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "hoe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:wheat_seeds"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[carrots]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = true
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "hoe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:carrot"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[potatoes]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = true
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "hoe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:potato"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[beetroots]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = true
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "hoe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:beetroot_seeds"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[chorus]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = true
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "axe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:chorus_flower"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[cocoa]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = true
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "axe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:cocoa_beans"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[kelp]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = false
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = ""
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:air"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[sugar_cane]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = false
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = ""
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:air"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[cactus]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = false
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "axe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:air"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[melon]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = false
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "axe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:air"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[pumpkin]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = false
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "axe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:air"
+	#A List of strings representing the items which when held, this harvester will not work.
+	#Recommended values: ["minecraft:shears"]
+	harvest_blacklist = ["minecraft:shears"]
+
+[nether_wart]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = true
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = "hoe_dig"
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:nether_wart"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[berry_bush]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = true
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = ""
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:sweet_berries"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[twisting_vines]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = false
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = ""
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:air"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+
+[weeping_vines]
+	#If true, this harvester will be enabled.
+	enabled = true
+	#If true, this harvester will require the set tool to function.
+	requires_tool = false
+	#If true, this harvester will take a replant item when performing a quick harvest.
+	take_replant_item = false
+	#Recommended values: 'hoe', 'axe', 'shovel', 'pickaxe'
+	valid_tool_type = ""
+	#NOTE: This only works if 'take_replant_item' is true.
+	replant_item = "minecraft:air"
+	#A List of strings representing the items which when held, this harvester will not work.
+	harvest_blacklist = []
+

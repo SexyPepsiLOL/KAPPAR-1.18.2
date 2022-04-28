@@ -1,0 +1,11 @@
+[07:35:53.222][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[07:35:53.272][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[07:35:53.274][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[07:35:54.815][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[07:35:54.819][INFO]: - 'aquaculture' at version '1.18.2-2.3.6'
+[07:35:54.819][INFO]: - 'crafttweaker' at version '9.1.116'
+[07:35:54.819][INFO]: - 'jaopca' at version '4.1.2.2'
+[07:35:54.819][INFO]: - 'jeitweaker' at version '3.0.0.8'
+[07:35:54.819][INFO]: - 'mekanism' at version '10.2.0'
+[07:35:54.819][INFO]: - 'mysticalagriculture' at version '5.1.0'
+[07:35:54.819][INFO]: - 'sushigocrafting' at version '0.3.4'

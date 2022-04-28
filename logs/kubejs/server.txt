@@ -1,0 +1,145 @@
+[13:00:05] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[13:00:05] [INFO ] Loaded script server_scripts:script.js in 0.006 s
+[13:00:05] [INFO ] Loaded 1/1 KubeJS server scripts in 0.026 s
+[13:00:05] [INFO ] Scripts loaded
+[13:00:05] [WARN ] Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
+[13:00:05] [INFO ] Scanning recipes...
+[13:00:23] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.nickel[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:23] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.nickel[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:23] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.pure_titanium[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:23] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.pure_titanium[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:23] [WARN ] Failed to parse recipe 'macawsbridgesbop:orange_sandstone_bridge_middle[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsbridgesbop:orange_sandstone_bridge_middle'
+[13:00:23] [WARN ] Failed to parse recipe macawsbridgesbop:orange_sandstone_bridge_middle[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsbridgesbop:orange_sandstone_bridge_middle'
+[13:00:23] [WARN ] Failed to parse recipe 'thermal:sawmill/te_sawmill_coal[thermal:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: thermal:sawmill
+[13:00:23] [WARN ] Failed to parse recipe thermal:sawmill/te_sawmill_coal[thermal:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'thermal:sawmill'
+[13:00:23] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.pure_iron[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:23] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.pure_iron[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:23] [WARN ] Failed to parse recipe 'malum:spirit_crucible/amethyst_shard[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:23] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.stainlesssteel[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:23] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.stainlesssteel[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:23] [WARN ] Failed to parse recipe 'advgenerators:modules/gas_input[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'advgenerators:gas_input'
+[13:00:23] [WARN ] Failed to parse recipe advgenerators:modules/gas_input[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'advgenerators:gas_input'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:raw_storage_blocks.to_raw_material.cobalt[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe jaopca:raw_storage_blocks.to_raw_material.cobalt[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe 'thermal:sawmill/te_sawmill_redstone[thermal:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: thermal:sawmill
+[13:00:24] [WARN ] Failed to parse recipe thermal:sawmill/te_sawmill_redstone[thermal:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'thermal:sawmill'
+[13:00:24] [WARN ] Failed to parse recipe 'create_stuff_additions:refined_radiance_exoskeleton_recipe[create:mechanical_crafting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_stuff_additions:refined_radiance_exoskeleton_chestplate'
+[13:00:24] [WARN ] Failed to parse recipe create_stuff_additions:refined_radiance_exoskeleton_recipe[create:mechanical_crafting]: com.google.gson.JsonSyntaxException: Unknown item 'create_stuff_additions:refined_radiance_exoskeleton_chestplate'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.aluminum[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.aluminum[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:raw_storage_blocks.to_raw_material.iridium[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe jaopca:raw_storage_blocks.to_raw_material.iridium[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe 'arsomega:ritual_summoning[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:mana_gem'
+[13:00:24] [WARN ] Failed to parse recipe arsomega:ritual_summoning[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:mana_gem'
+[13:00:24] [WARN ] Failed to parse recipe 'malum:spirit_crucible/gunpowder[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'pamhc2foodextended:gourmetmuttonburgeritem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomitem'
+[13:00:24] [WARN ] Failed to parse recipe pamhc2foodextended:gourmetmuttonburgeritem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:roastedmushroomitem'
+[13:00:24] [WARN ] Failed to parse recipe 'malum:node_focusing_tin[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.hslasteel[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.hslasteel[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'arsomega:hexed_book[ars_nouveau:enchanting_apparatus]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing pedestalItems, expected to find a JsonArray
+[13:00:24] [WARN ] Failed to parse recipe arsomega:hexed_book[ars_nouveau:enchanting_apparatus]: com.google.gson.JsonSyntaxException: Missing pedestalItems, expected to find a JsonArray
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:raw_storage_blocks.to_raw_material.platinum[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe jaopca:raw_storage_blocks.to_raw_material.platinum[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.bronze[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.bronze[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'malum:node_focusing_zinc[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'malum:spirit_crucible/prismarine_crystals[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'malum:node_focusing_nickel[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.vanadiumsteel[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.vanadiumsteel[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.zinc[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.zinc[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.lithium[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.lithium[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.constantan[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.constantan[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'malum:spirit_crucible/glowstone_dust[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'pamhc2foodextended:sweetteaitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:hotteaitem'
+[13:00:24] [WARN ] Failed to parse recipe pamhc2foodextended:sweetteaitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:hotteaitem'
+[13:00:24] [WARN ] Failed to parse recipe 'macawsbridgesbop:white_sandstone_bridge_middle[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsbridgesbop:white_sandstone_bridge_middle'
+[13:00:24] [WARN ] Failed to parse recipe macawsbridgesbop:white_sandstone_bridge_middle[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsbridgesbop:white_sandstone_bridge_middle'
+[13:00:24] [WARN ] Failed to parse recipe 'pamhc2foodextended:espressoitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:hotcoffeeitem'
+[13:00:24] [WARN ] Failed to parse recipe pamhc2foodextended:espressoitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2crops:hotcoffeeitem'
+[13:00:24] [WARN ] Failed to parse recipe 'pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
+[13:00:24] [WARN ] Failed to parse recipe pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
+[13:00:24] [WARN ] Failed to parse recipe 'malum:node_focusing_uranium[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'thermal:sawmill/te_sawmill_iron[thermal:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: thermal:sawmill
+[13:00:24] [WARN ] Failed to parse recipe thermal:sawmill/te_sawmill_iron[thermal:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'thermal:sawmill'
+[13:00:24] [WARN ] Failed to parse recipe 'createaddition:compat/mekanism/rose_quartz_metallurgic_infusing[mekanism:metallurgic_infusing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing chemicalInput, expected to find a JsonObject
+[13:00:24] [WARN ] Failed to parse recipe createaddition:compat/mekanism/rose_quartz_metallurgic_infusing[mekanism:metallurgic_infusing]: com.google.gson.JsonSyntaxException: Missing chemicalInput, expected to find a JsonObject
+[13:00:24] [WARN ] Failed to parse recipe 'malum:spirit_crucible/quartz[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.pure_gold[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.pure_gold[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.brass[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.brass[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.titaniumcarbide[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.titaniumcarbide[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'thermal:sawmill/te_sawmill_gold[thermal:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: thermal:sawmill
+[13:00:24] [WARN ] Failed to parse recipe thermal:sawmill/te_sawmill_gold[thermal:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'thermal:sawmill'
+[13:00:24] [WARN ] Failed to parse recipe 'thermal:sawmill/te_sawmill_lapis[thermal:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: thermal:sawmill
+[13:00:24] [WARN ] Failed to parse recipe thermal:sawmill/te_sawmill_lapis[thermal:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'thermal:sawmill'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:raw_storage_blocks.to_raw_material.azure_silver[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe jaopca:raw_storage_blocks.to_raw_material.azure_silver[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.silver[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.silver[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[13:00:24] [WARN ] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[13:00:24] [WARN ] Failed to parse recipe 'thermal:sawmill/te_sawmill_diamond[thermal:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: thermal:sawmill
+[13:00:24] [WARN ] Failed to parse recipe thermal:sawmill/te_sawmill_diamond[thermal:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'thermal:sawmill'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.graphene[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.graphene[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'malum:node_focusing_osmium[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'malum:node_focusing_silver[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:raw_storage_blocks.to_raw_material.draconium[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe jaopca:raw_storage_blocks.to_raw_material.draconium[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe 'macawsbridgesbop:mud_brick_bridge_middle[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'macawsbridgesbop:mud_brick_bridge_middle'
+[13:00:24] [WARN ] Failed to parse recipe macawsbridgesbop:mud_brick_bridge_middle[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'macawsbridgesbop:mud_brick_bridge_middle'
+[13:00:24] [WARN ] Failed to parse recipe 'malum:spirit_crucible/redstone[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'mysticalagriculture:essence/chisel/limestone[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'chisel:limestone/raw'
+[13:00:24] [WARN ] Failed to parse recipe mysticalagriculture:essence/chisel/limestone[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'chisel:limestone/raw'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.desh[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.desh[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'malum:node_focusing_copper[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:raw_storage_blocks.to_raw_material.lithium[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe jaopca:raw_storage_blocks.to_raw_material.lithium[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:raw_storage_blocks.to_raw_material.bismuth[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe jaopca:raw_storage_blocks.to_raw_material.bismuth[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe 'malum:node_focusing_gold[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'malum:spirit_crucible/blazing_quartz[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'thermal:sawmill/te_sawmill_quartz[thermal:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: thermal:sawmill
+[13:00:24] [WARN ] Failed to parse recipe thermal:sawmill/te_sawmill_quartz[thermal:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'thermal:sawmill'
+[13:00:24] [WARN ] Failed to parse recipe 'thermal:sawmill/te_sawmill_emerald[thermal:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: thermal:sawmill
+[13:00:24] [WARN ] Failed to parse recipe thermal:sawmill/te_sawmill_emerald[thermal:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'thermal:sawmill'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.lead[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.lead[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:24] [WARN ] Failed to parse recipe 'thermal:sawmill/te_sawmill_copper[thermal:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: thermal:sawmill
+[13:00:24] [WARN ] Failed to parse recipe thermal:sawmill/te_sawmill_copper[thermal:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'thermal:sawmill'
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:raw_storage_blocks.to_raw_material.crimson_iron[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe jaopca:raw_storage_blocks.to_raw_material.crimson_iron[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:24] [WARN ] Failed to parse recipe 'malum:node_focusing_iron[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:24] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.cast_iron[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:24] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.cast_iron[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:25] [WARN ] Failed to parse recipe 'cabletiers:elite_requester[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'rsrequestify:requester'
+[13:00:25] [WARN ] Failed to parse recipe cabletiers:elite_requester[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'rsrequestify:requester'
+[13:00:25] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.netherite[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:25] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.netherite[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:25] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.pure_steel[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:25] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.pure_steel[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:25] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.uranium[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:25] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.uranium[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:25] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.pure_copper[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:25] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.pure_copper[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:25] [WARN ] Failed to parse recipe 'jaopca:assemblylinemachines.material_to_plate_metal.electrum[assemblylinemachines:metal]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: assemblylinemachines:metal
+[13:00:25] [WARN ] Failed to parse recipe jaopca:assemblylinemachines.material_to_plate_metal.electrum[assemblylinemachines:metal]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'assemblylinemachines:metal'
+[13:00:25] [WARN ] Failed to parse recipe 'jaopca:raw_storage_blocks.to_raw_material.tungsten[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:25] [WARN ] Failed to parse recipe jaopca:raw_storage_blocks.to_raw_material.tungsten[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[13:00:25] [WARN ] Failed to parse recipe 'malum:node_focusing_aluminum[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:25] [WARN ] Failed to parse recipe 'malum:node_focusing_lead[malum:spirit_focusing]': input is not a valid ingredient!
+[13:00:25] [INFO ] Found 29376 recipes and 0 failed recipes in 1.394 s
+[13:00:25] [INFO ] server_scripts:script.js:21: + kubejs:shapeless: ['minecraft:basalt', 'minecraft:quartz'] -> ['minecraft:andesite']
+[13:00:25] [ERR  ] Error occurred while handling event 'recipes': Wrapped java.lang.NullPointerException: Unknown recipe type: electrodynamics:energizedalloyer (server_scripts:script.js#23)
+[13:00:25] [INFO ] Posted recipe events in 7.483 ms
+[13:00:25] [INFO ] Modified & removed recipes in 651.0 ms
+[13:00:25] [INFO ] Added recipes in 3.766 ms
+[13:00:25] [INFO ] Added 1 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes

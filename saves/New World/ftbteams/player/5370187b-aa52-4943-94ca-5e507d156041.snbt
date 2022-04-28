@@ -1,0 +1,19 @@
+{
+	id: "5370187b-aa52-4943-94ca-5e507d156041"
+	type: "player"
+	player_name: "LOADER_is_Queen"
+	ranks: {
+		5370187b-aa52-4943-94ca-5e507d156041: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LOADER_is_Queen"
+		"ftbteams:color": "#6A59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

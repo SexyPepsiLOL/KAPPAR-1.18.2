@@ -1,0 +1,13 @@
+{
+    "type": "assemblylinemachines:alloying",
+    "part_a":{
+        "tag": "forge:ingots/iron"
+    },
+    "part_b":{
+        "tag": "minecraft:andesite"
+    },
+    "output":{
+        "item": "create:andesite_alloy"
+    },
+    "time": 200
+}

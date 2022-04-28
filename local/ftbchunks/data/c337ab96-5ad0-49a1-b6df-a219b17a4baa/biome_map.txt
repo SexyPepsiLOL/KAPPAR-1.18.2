@@ -1,0 +1,6 @@
+#47F minecraft:birch_forest
+#4F9 minecraft:dark_forest
+#010 minecraft:forest
+#788 builders_fantasy:mahogany_caves
+#1DF minecraft:old_growth_birch_forest
+#5FF minecraft:river

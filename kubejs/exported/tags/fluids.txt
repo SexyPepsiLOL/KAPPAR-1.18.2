@@ -1,0 +1,510 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 24, 2022, 5:52:51 PM
+
+#electrodynamics:sulfates/tungsten
+- jaopca:electrodynamics_sulfates.tungsten?
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- beyond_earth:fuel
+- beyond_earth:flowing_fuel
+- beyond_earth:oil
+- beyond_earth:flowing_oil
+- #undergarden:virulent
+- cyclic:biomass
+- cyclic:biomass_flowing
+- cyclic:honey
+- cyclic:honey_flowing
+- cyclic:xpjuice
+- cyclic:xpjuice_flowing
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- mahoutsukai:murky_still
+- mahoutsukai:murky_flow
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#forge:biodiesel
+- immersiveengineering:biodiesel
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:uranium_hexafluoride
+- nuclearscience:fluiduraniumhexafluoride
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+
+#assemblylinemachines:oil
+- assemblylinemachines:oil
+- assemblylinemachines:oil_flowing
+
+#assemblylinemachines:naphtha
+- assemblylinemachines:naphtha
+- assemblylinemachines:naphtha_flowing
+
+#forge:sulfur_dioxide
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+
+#electrodynamics:sulfates/iesnium
+- jaopca:electrodynamics_sulfates.iesnium?
+
+#biomesoplenty:blood
+- biomesoplenty:blood
+- biomesoplenty:flowing_blood
+
+#forge:hydrogen
+- electrodynamics:fluidhydrogen
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+
+#electrodynamics:sulfates/desh
+- jaopca:electrodynamics_sulfates.desh?
+
+#beyond_earth:molten_ostrum
+- beyond_earth:molten_ostrum?
+- beyond_earth:flowing_molten_ostrum?
+
+#assemblylinemachines:liquid_experience
+- assemblylinemachines:liquid_experience
+- assemblylinemachines:liquid_experience_flowing
+
+#forge:superheated_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+
+#beyond_earth:oil
+- beyond_earth:oil
+- beyond_earth:flowing_oil
+
+#assemblylinemachines:dark_energy
+- assemblylinemachines:dark_energy
+- assemblylinemachines:dark_energy_flowing
+
+#forge:ammonia
+- nuclearscience:fluidammonia
+
+#forge:steam
+- advgenerators:steam
+- mekanism:steam
+- mekanism:flowing_steam
+- bigreactors:steam
+- bigreactors:steam_flowing
+
+#forge:netherite_sulfate
+- electrodynamics:fluidsulfatenetherite
+
+#forge:yellorium
+- bigreactors:yellorium
+- bigreactors:yellorium_flowing
+
+#forge:polyethylene
+- electrodynamics:fluidpolyethylene
+
+#electrodynamics:sulfates/flerovium
+- jaopca:electrodynamics_sulfates.flerovium?
+
+#forge:oil
+- beyond_earth:oil
+- beyond_earth:flowing_oil
+
+#forge:magma
+- cyclic:magma
+
+#forge:gold_sulfate
+- electrodynamics:fluidsulfategold
+
+#immersiveengineering:drill_fuel
+- #forge:biodiesel
+
+#forge:vanadium_sulfate
+- electrodynamics:fluidsulfatevanadium
+
+#forge:blutonium
+- bigreactors:blutonium
+- bigreactors:blutonium_flowing
+
+#electrodynamics:sulfates/osmium
+- jaopca:electrodynamics_sulfates.osmium?
+
+#forge:crude_oil
+
+#forge:herbicide
+- immersiveengineering:herbicide
+
+#forge:tritium
+- mekanismgenerators:tritium
+- mekanismgenerators:flowing_tritium
+
+#tconstruct:tooltips/metal
+- #forge:molten_desh
+- #forge:molten_ostrum
+- #forge:molten_calorite
+
+#electrodynamics:sulfates/iridium
+- jaopca:electrodynamics_sulfates.iridium?
+
+#forge:magentite
+- bigreactors:magentite
+- bigreactors:magentite_flowing
+
+#vampirism:vampirism_blood
+- vampirism:blood
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#forge:ethene
+- mekanism:ethene
+- mekanism:flowing_ethene
+
+#forge:ethanol
+- electrodynamics:fluidethanol
+- immersiveengineering:ethanol
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#forge:uranium_oxide
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+
+#forge:clay
+- electrodynamics:fluidclay
+
+#electrodynamics:sulfates/regalium
+- jaopca:electrodynamics_sulfates.regalium?
+
+#forge:redstone_acid
+- immersiveengineering:redstone_acid
+
+#forge:sodium
+- mekanism:sodium
+- mekanism:flowing_sodium
+
+#forge:concrete
+- electrodynamics:fluidconcrete
+- immersiveengineering:concrete
+
+#forge:verderium
+- bigreactors:verderium
+- bigreactors:verderium_flowing
+
+#beyond_earth:molten_desh
+- beyond_earth:molten_desh?
+- beyond_earth:flowing_molten_desh?
+
+#forge:sulfur_trioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+
+#forge:sulfuric_acid
+- electrodynamics:fluidsulfuricacid
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+
+#electrodynamics:sulfates/uranium
+- jaopca:electrodynamics_sulfates.uranium?
+
+#forge:hydrogen_chloride
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+
+#vampirism:vampirism_impure_blood
+- vampirism:impure_blood
+
+#forge:deuterium
+- mekanismgenerators:deuterium
+- mekanismgenerators:flowing_deuterium
+
+#electrodynamics:sulfates/azure_silver
+- jaopca:electrodynamics_sulfates.azure_silver?
+
+#forge:hydrofluoric_acid
+- electrodynamics:fluidhydrogenfluoride
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+
+#forge:cyanite
+- bigreactors:cyanite
+- bigreactors:cyanite_flowing
+
+#beyond_earth:molten_calorite
+- beyond_earth:molten_calorite?
+- beyond_earth:flowing_molten_calorite?
+
+#assemblylinemachines:gasoline
+- assemblylinemachines:gasoline
+- assemblylinemachines:gasoline_flowing
+
+#electrodynamics:sulfates/platinum
+- jaopca:electrodynamics_sulfates.platinum?
+
+#forge:oxygen
+- electrodynamics:fluidoxygen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+
+#forge:molten_desh
+- #beyond_earth:molten_desh
+
+#electrodynamics:sulfates/utherium
+- jaopca:electrodynamics_sulfates.utherium?
+
+#assemblylinemachines:diesel
+- assemblylinemachines:diesel
+- assemblylinemachines:diesel_flowing
+
+#forge:biomass
+- cyclic:biomass
+
+#electrodynamics:sulfates/froststeel
+- jaopca:electrodynamics_sulfates.froststeel?
+
+#create:bottomless/deny
+
+#forge:fusion_fuel
+- mekanismgenerators:fusion_fuel
+- mekanismgenerators:flowing_fusion_fuel
+
+#forge:xpjuice
+- mob_grinding_utils:fluid_xp
+
+#assemblylinemachines:liquid_carbon
+- assemblylinemachines:liquid_carbon
+- assemblylinemachines:liquid_carbon_flowing
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#forge:iron_sulfate
+- electrodynamics:fluidsulfateiron
+
+#undergarden:virulent
+- undergarden:virulent_mix_source
+- undergarden:virulent_mix_flowing
+
+#forge:experience
+- sophisticatedcore:xp_still
+- mob_grinding_utils:fluid_xp
+- pneumaticcraft:memory_essence?
+- cofh_core:experience?
+- cyclic:xpjuice
+- reliquary:xp_juice_still
+
+#forge:slime
+- cyclic:slime
+
+#forge:lithium
+- mekanism:lithium
+- mekanism:flowing_lithium
+
+#ae2:blacklisted/annihilation_plane
+
+#forge:lead_sulfate
+- electrodynamics:fluidsulfatelead
+
+#forge:silver_sulfate
+- electrodynamics:fluidsulfatesilver
+
+#forge:rossinite
+- bigreactors:rossinite
+- bigreactors:rossinite_flowing
+
+#forge:bioethanol
+- mekanismgenerators:bioethanol
+- mekanismgenerators:flowing_bioethanol
+
+#electrodynamics:sulfates/nickel
+- jaopca:electrodynamics_sulfates.nickel?
+
+#forge:creosote
+- immersiveengineering:creosote
+
+#electrodynamics:sulfates/draconium
+- jaopca:electrodynamics_sulfates.draconium?
+
+#forge:heavy_water
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+
+#electrodynamics:sulfates/ostrum
+- jaopca:electrodynamics_sulfates.ostrum?
+
+#electrodynamics:sulfates/zinc
+- jaopca:electrodynamics_sulfates.zinc?
+
+#forge:fuel
+- beyond_earth:fuel
+- beyond_earth:flowing_fuel
+
+#assemblylinemachines:glacier_water
+- assemblylinemachines:glacier_water
+- assemblylinemachines:glacier_water_flowing
+
+#forge:tin_sulfate
+- electrodynamics:fluidsulfatetin
+
+#forge:lubricant
+- dynamicelectricity:fluidlubricant
+
+#forge:molten_ostrum
+- #beyond_earth:molten_ostrum
+
+#electrodynamics:sulfates/bismuth
+- jaopca:electrodynamics_sulfates.bismuth?
+
+#forge:biofuel
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#electrodynamics:sulfates/crimson_iron
+- jaopca:electrodynamics_sulfates.crimson_iron?
+
+#forge:plantoil
+- immersiveengineering:plantoil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#assemblylinemachines:condensed_void
+- assemblylinemachines:condensed_void
+- assemblylinemachines:condensed_void_flowing
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:chlorine
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+
+#forge:lithium_sulfate
+- electrodynamics:fluidsulfatelithium
+
+#forge:potion
+- immersiveengineering:potion
+
+#forge:hydraulic_fluid
+- electrodynamics:fluidhydraulic
+
+#electrodynamics:sulfates
+- jaopca:electrodynamics_sulfates.azure_silver?
+- jaopca:electrodynamics_sulfates.bismuth?
+- jaopca:electrodynamics_sulfates.calorite?
+- jaopca:electrodynamics_sulfates.cloggrum?
+- jaopca:electrodynamics_sulfates.cobalt?
+- jaopca:electrodynamics_sulfates.crimson_iron?
+- jaopca:electrodynamics_sulfates.desh?
+- jaopca:electrodynamics_sulfates.draconium?
+- jaopca:electrodynamics_sulfates.flerovium?
+- jaopca:electrodynamics_sulfates.froststeel?
+- jaopca:electrodynamics_sulfates.iesnium?
+- jaopca:electrodynamics_sulfates.iridium?
+- jaopca:electrodynamics_sulfates.nickel?
+- jaopca:electrodynamics_sulfates.osmium?
+- jaopca:electrodynamics_sulfates.ostrum?
+- jaopca:electrodynamics_sulfates.platinum?
+- jaopca:electrodynamics_sulfates.regalium?
+- jaopca:electrodynamics_sulfates.tungsten?
+- jaopca:electrodynamics_sulfates.uranium?
+- jaopca:electrodynamics_sulfates.utherium?
+- jaopca:electrodynamics_sulfates.zinc?
+
+#electrodynamics:sulfates/cloggrum
+- jaopca:electrodynamics_sulfates.cloggrum?
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#beyond_earth:vehicle_fuel
+- beyond_earth:fuel
+- beyond_earth:flowing_fuel
+- thermal:refined_fuel?
+- vehicle:fuelium?
+- car:bio_diesel?
+- immersivepetroleum:diesel?
+- immersiveengineering:biodiesel?
+- industrialforegoing:biofuel?
+- pneumaticcraft:diesel?
+- pneumaticcraft:biodiesel?
+
+#forge:molybdenum_sulfate
+- electrodynamics:fluidsulfatemolybdenum
+
+#electrodynamics:sulfates/cobalt
+- jaopca:electrodynamics_sulfates.cobalt?
+
+#electrodynamics:sulfates/calorite
+- jaopca:electrodynamics_sulfates.calorite?
+
+#forge:brine
+- mekanism:brine
+- mekanism:flowing_brine
+
+#forge:molten_calorite
+- #beyond_earth:molten_calorite
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:honey
+- inspirations:honey?
+- cyclic:honey
+- create:flowing_honey
+- create:honey
+
+#forge:copper_sulfate
+- electrodynamics:fluidsulfatecopper
+
+#create:no_infinite_draining
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+- mekanism:ethene
+- mekanism:flowing_ethene
+- mekanism:sodium
+- mekanism:flowing_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+- mekanism:brine
+- mekanism:flowing_brine
+- mekanism:lithium
+- mekanism:flowing_lithium
+- mekanism:steam
+- mekanism:flowing_steam
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+- mekanism:nutritional_paste
+- mekanism:flowing_nutritional_paste
+- mekanismgenerators:bioethanol
+- mekanismgenerators:flowing_bioethanol
+- mekanismgenerators:deuterium
+- mekanismgenerators:flowing_deuterium
+- mekanismgenerators:fusion_fuel
+- mekanismgenerators:flowing_fusion_fuel
+- mekanismgenerators:tritium
+- mekanismgenerators:flowing_tritium
